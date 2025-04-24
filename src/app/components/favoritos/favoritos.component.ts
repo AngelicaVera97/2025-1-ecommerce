@@ -35,4 +35,5 @@ export class FavoritosComponent {
       console.log(this.myProductlist);
     }
 
+
 }
