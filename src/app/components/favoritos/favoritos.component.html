@@ -1,0 +1,21 @@
+<div class="container">
+    <h1 style="text-align: center;">Mis productos</h1>
+    <div class="books-container">
+
+        @for(item of datosFavoritos; track $index){
+        <div class="book-card">
+            <img [src]="item.image" [alt]="item.name">
+            <div class="card-content">
+                <p class="title">{{item.name}}</p>
+                <p class="author">
+                    {{item.price}}
+                </p>
+            </div>
+        </div>    
+        }
+    </div>
+
+    @if( datosFavoritos.length== 0){
+        <div class="not-found">No se han agregado productos al carrito</div>
+    }
+</div>

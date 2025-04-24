@@ -1,0 +1,15 @@
+#carouselExample{
+    display: flex;
+    max-width: 100%;
+    max-height: 600px;
+    justify-content: center;
+
+}
+.banner{
+    max-width: 50px;
+}
+
+.buttons{
+    max-width: 80%;
+    max-height: 50px;  
+}

@@ -1,0 +1,21 @@
+[
+    {"id_products":1, "name": "Lightstick BTS", "price": "$639.32", "image": "/Images/Lightstick.png.jpg"},
+    {"id_products":2, "name": "Happy Album", "price": "$973.74", "image": "/Images/Happy.png.jpg"},
+    {"id_products":3, "name": "D-Day Album", "price": "$606.54", "image": "/Images/DDay.png.jpg"},
+    {"id_products":4, "name": "Jack in the Box Album", "price": "$316.00", "image": "/Images/JackBox.png.jpg"},
+    {"id_products":5, "name": "Hope in the Street Album", "price": "$632.76", "image": "/Images/OnStreet.png.webp"},
+    {"id_products":6, "name": "Indigo Album", "price": "$488.51", "image": "/Images/Indigo.png.jpg"},
+    {"id_products":7, "name": "Right Place, Wrong Person Album", "price": "$973.74", "image": "/Images/RPWP.png"},
+    {"id_products":8, "name": "Face Album", "price": "$606.54", "image": "/Images/Face.png.jpg"},
+    {"id_products":9, "name": "Muse Album", "price": "$399.00", "image": "/Images/Muse.png.png"},
+    {"id_products":10, "name": "Layover Album", "price": "$949.15", "image": "/Images/Layover.png.jpg"},
+    {"id_products":11, "name": "Golden Album", "price": "$973.74", "image": "/Images/Golden.png.jpg"},
+    {"id_products":12, "name": "RJ BT21", "price": "$399.00", "image": "/Images/RJ.png.jpg"},
+    {"id_products":13, "name": "Shooky BT21", "price": "$399.00", "image": "/Images/Shooky.png.jpg"},
+    {"id_products":14, "name": "Mang BT21", "price": "$399.00", "image": "/Images/Mang.png.jpg"},
+    {"id_products":15, "name": "Koya BT21", "price": "$399.00", "image": "/Images/Koya.png.jpg"},
+    {"id_products":16, "name": "Chimmy BT21", "price": "$399.00", "image": "/Images/Chimmy.png.jpg"},
+    {"id_products":17, "name": "Tata BT21", "price": "$399.00", "image": "/Images/Tata.png.jpg"},
+    {"id_products":18, "name": "Cookie BT21", "price": "$399.00", "image": "/Images/Cookie.png.jpg"}
+]
+  

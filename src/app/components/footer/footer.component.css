@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(232, 144, 232);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
